@@ -81,3 +81,6 @@ The last 3 fields in the “faces” structure are essential in allowing the Rub
 With a Rubik’s cube, when one side is turned the squares int the nearest row of the adjoining faces also rotates. And so to allow this to occur, every square except the centre pieces must be linked to its neighbours. When they are linked, if the numbers on the face that they are linked to rotates, then the adjoining faces will also rotate. The following picture shows the flat packed cube and the numbers represent the face and the square respectively. The numbers are chosen based on the order that the squares on that face were created, and by printing the number onto the square as it was created, I could make a note of how they all interacted with each other. Here is a flat view of the cube.
 
 ![Rubik's cube 2D layout](./images/cube-layout.png)
+
+
+## *In the process of uploading the rest of the documentation*
