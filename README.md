@@ -1,9 +1,9 @@
 # Rubik’s Cube Project
-## AIM
+## Aim of the project
 The aim for this project was to create a fully functional Rubik’s cube that could be visualised and interacted with in Matlab. Originally I had planned to get the program to solve the cube from any starting position, however, when solving the cube, there are certain steps that are made using human intuition that would be very hard to replicate with a computer. Therefore, I decided to simply create a cube that would automatically scramble itself and allow the user to solve it.
 
 
-## BACKGROUND & THEORY
+## Background & Theory
 ### Structure of the cube
 The Rubik’s cube is a toy designed to be challenging to solve, with complex algorithms often being needed to solve the patterns, and it is something that many people still cannot do without dedicating some time to learn. There are 6 faces on the cube with 9 total squares per face in a 3 by 3 layout. The central square on each face designates which colour the face is and it never changes, however the outside faces can move freely when a side is rotated.
 Apart from the 6 central pieces, there are 8 corner pieces with 3 squares each, and 8 edge pieces with 2 squares each. This means there are 22 individual pieces and 54 individual squares.
@@ -84,3 +84,10 @@ With a Rubik’s cube, when one side is turned the squares int the nearest row o
 
 
 ## *In the process of uploading the rest of the documentation*
+
+## Authors
+
+* **Callum Wood** - *Initial work* - [Callum-W](https://github.com/Callum-W)
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
