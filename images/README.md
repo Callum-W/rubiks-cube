@@ -1,4 +1,4 @@
-##List of included images
+List of included images
 ----
 
 **cube-pattern-example.png**
